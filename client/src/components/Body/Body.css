@@ -19,28 +19,33 @@
     color: #40514E;
     font-family: 'Merriweather';
     line-height: 200%;
-    padding:130px;
+    padding:50px;
     font-size:18px;
+  }
+
+  .main-center {
+    text-align: center;
   }
   
   h2 {
       color: #66BFBF;
       font-family: 'Montserrat';
-      padding-top:15px;
       font-size:30px;
       text-align:center;
-      height: 25px;
+      margin-top: 20px;
+      margin-top: 20px;
+      padding: 10px;
   }
 
   h3 {
       color: #11999E;
       font-family: 'Montserrat';
-      line-height: 200%;
+      font-size: 25px;
       padding-top:35px;
-      margin-top:35px;
+      margin-top:15px;
   }
   
-  .computerone{
+  .computerone {
       float:right;
       margin-top: 3rem;
       margin-right: 3rem;
@@ -60,8 +65,9 @@
     width:11rem;
     text-align:center;
     border:2px solid #30e3cb;
-    margin-top: 5rem;
-    margin-left:40%;
+    margin-top: 2rem;
+    margin-left:42%;
+    margin-bottom: 5rem;
     border-radius: 1rem;
     padding: 0.5rem 0;
     -webkit-transition:0.5s all ease;
@@ -82,14 +88,10 @@
   }
 
   .student {
-    width:200px;
-    height:200px;
-    border-radius: 100px;
+    width:210px;
+    height:215px;
+    border-radius: 105px;
     margin-left: 40%;
-  }
-
-  .main-center {
-    text-align: center;
   }
 
   .contact-popup {
@@ -153,22 +155,25 @@ strong {
     margin-left: 30%;
   }
   .button {
-    margin-left: 30%;
+    margin-left: 31%;
   }
   .computerone {
     float:none;
+    margin-left: 6rem;
   }
   .computertwo {
     float:none;
-    margin-left: 6rem;
+    margin-left: 7rem;
   }
   .design-div {
-    margin-right: 4rem;
+    margin-right: 3rem;
+    text-align: center;
   }
   .debbugging-div {
     margin-right: 10rem;
     width: 350px;
     margin-left: 1rem;
+    text-align: center;
   }
   .about-h3 {
     margin-left: 6rem;
@@ -176,7 +181,8 @@ strong {
   .fox-gif {
     width:150px;
     height: 300px;
-    margin-right: 6rem;
+    margin-left: 8rem;
+    margin-right: 2rem;
   }
 }
 
@@ -188,7 +194,7 @@ strong {
     margin-left: 10%;
   }
   .button {
-    margin-left: 10%;
+    margin-left: 25%;
   }
   .fox-gif {
     width:120px;
@@ -203,6 +209,7 @@ strong {
     width: 300px;
     margin-right: 70px;
     margin-left: 0.1rem;
+    text-align: center;
   }
 }
 
