@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet"');
+
+* {
+    margin: 0;
+    padding:0;
+  }
+  
+  img {
+    background:#E4F9F5;
+    text-align:center;
+    padding-top: -300px;
+    padding-bottom: -300px;;
+    margin:0 auto;
+    margin-left:70px;
+  }
+  
+  .main {
+    background-color: white;
+    color: #40514E;
+    font-family: 'Merriweather';
+    line-height: 200%;
+    padding:130px;
+    font-size:18px;
+  }
+  
+  h2 {
+      color: #66BFBF;
+      font-family: 'Montserrat';
+      padding-top:20px;
+      font-size:28px;
+      margin-bottom:35px;
+      line-height: 200%;
+      text-align:center;
+      height: 35px;
+  }
+
+  h3 {
+      color: #11999E;
+      font-family: 'Montserrat';
+      line-height: 200%;
+      padding-top:35px;
+      margin-top:35px;
+  }
+  
+  .computerone{
+      float:right;
+      margin-top: 3rem;
+      margin-right: 3rem;
+  }
+
+  .computertwo {
+    float:left;
+    margin:1rem;
+    margin-top:4rem;
+  }
+
+  .button {
+    background-color: #11cdd4;
+    font-size: 19px;
+    font-family:'Merriweather';
+    color: white;
+    width:11rem;
+    text-align:center;
+    border:2px solid #30e3cb;
+    margin-top: 5rem;
+    margin-left:26rem;
+    border-radius: 1rem;
+    padding: 0.5rem 0;
+    -webkit-transition:0.5s all ease;
+    transition:0.5s ease all;
+  }
+
+  .button:hover {
+    color: #30e3cb;
+    background-color: white;
+  }
+  .points {
+    font-size: 50px;
+    color: rgb(240, 239, 239);
+    padding-top:50px;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+
+  .student {
+    width:200px;
+    height:200px;
+    border-radius: 100px;
+    margin-left: 25rem;
+  }
+
+  .main-center {
+    text-align: center;
+  }
+
+  .contact-popup {
+    background-color: #11cdd4;
+    z-index: 1;
+    border-radius: 100px;
+    padding: 30px;
+    text-align: center;
+    height: 250px;
+  }
+
+  .close {
+    color: Black;
+    float: right;
+  }
+
+  .close:hover {
+    color: red;
+    cursor: pointer;
+  }
+
+  .design-div {
+    margin-left: 5rem;
+  }
+
+  .debbugging-div {
+    margin-left: 10rem;
+  }
+
+  .debug-content {
+    margin-left: 5rem;
+  }
