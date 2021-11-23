@@ -26,12 +26,10 @@
   h2 {
       color: #66BFBF;
       font-family: 'Montserrat';
-      padding-top:20px;
-      font-size:28px;
-      margin-bottom:35px;
-      line-height: 200%;
+      padding-top:15px;
+      font-size:30px;
       text-align:center;
-      height: 35px;
+      height: 25px;
   }
 
   h3 {
@@ -113,7 +111,7 @@
   }
 
   .design-div {
-    margin-left: 5rem;
+    margin-left: 2rem;
   }
 
   .debbugging-div {
@@ -123,3 +121,24 @@
   .debug-content {
     margin-left: 5rem;
   }
+
+  a {
+    color:#11999E;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-transition:0.3s all ease;
+    transition:0.3s ease all;
+  }
+
+  a:hover {
+    color: black;
+  }
+  
+
+strong {
+  margin-left: 2rem;
+}
+
+.fox-gif {
+  margin-right: 7rem;
+}

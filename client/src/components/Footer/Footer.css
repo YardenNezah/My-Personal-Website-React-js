@@ -25,13 +25,13 @@ nav ul {
    font-size: 12px;
   }
 
-  a {
+  li a {
     color:#11999E;
     text-decoration: none;
     -webkit-transition:0.3s all ease;
     transition:0.3s ease all;
   }
 
-  a:hover {
+  li a:hover {
     color: white;
   }

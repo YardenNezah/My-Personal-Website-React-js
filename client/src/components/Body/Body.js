@@ -32,12 +32,12 @@ const Body = () => {
                     ⚡ Integration of third party services such as Bootstrap.
                 </p>
                 <p>
-                    ⚡ Develop highly interactive Front end / User Interfaces for web and  <br />  mobile applications.
+                    ⚡ Develop highly interactive Front end / User Interfaces for web applications.
                 </p>
             </div>
             <img src="https://media0.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="200" height="150" alt="computer" className="computertwo"></img>
             <div className="debbugging-div">
-                <h3>Experience</h3>
+                <h3>About me</h3>
                 <div class="debug-content">
                     <p>
                         ⚡ Building engaging projects, fun challenges and personalized practice.</p>
@@ -50,6 +50,28 @@ const Body = () => {
                 </div>
             </div>
             <div>
+            <img src="https://i.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.webp" width="250" height="450" alt="computer" className="computerone fox-gif"></img>
+            <div className="design-div">
+                <h3>Projects</h3>
+                <p>
+                    ⚡ <a href="https://github.com/yardentzaraf/Orit-Bezalel-Real-Estate">Real Estate Landing Page</a> <br /> <p><strong>Languages:</strong> HTML, CSS</p>
+                </p>
+                <p>
+                    ⚡ <a href="https://github.com/yardentzaraf/Complete-Input">Complete Input</a><br /> <p> <strong>Languages:</strong> HTML, CSS, JavaScript</p>
+                </p>
+                <p>
+                    ⚡ <a href="https://github.com/yardentzaraf/Splitit-Hackathon">Payment Page- Splitit Hackathon</a> <br /> <p><strong>Languages:</strong> HTML, CSS, JavaScript, React.js</p>
+                </p>
+                <p>
+                    ⚡ <a href="https://github.com/yardentzaraf/My-Portfolio-React.js-">My Portfolio</a> <br /> <p><strong>Languages:</strong> HTML, CSS, React.js, Node.js</p>
+                </p>
+                <p>
+                    ⚡ <a href="https://github.com/yardentzaraf/listings-Challange-React.js">Job Listing</a> <br /> <p><strong>Languages:</strong> HTML, CSS, JavaScript, React.js, Node.js</p>
+                </p>
+                <p>
+                    ⚡ <a href="https://github.com/yardentzaraf/EVE-ASP.NET-Project">EVE- Clothes Store</a> <br /><p> <strong>Languages:</strong> HTML, CSS, jQuary, C#, ASP.NET</p>
+                </p>
+            </div>
                 <p className="points">
                     .......
                 </p>
