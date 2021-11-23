@@ -61,7 +61,7 @@
     text-align:center;
     border:2px solid #30e3cb;
     margin-top: 5rem;
-    margin-left:26rem;
+    margin-left:40%;
     border-radius: 1rem;
     padding: 0.5rem 0;
     -webkit-transition:0.5s all ease;
@@ -72,6 +72,7 @@
     color: #30e3cb;
     background-color: white;
   }
+
   .points {
     font-size: 50px;
     color: rgb(240, 239, 239);
@@ -84,7 +85,7 @@
     width:200px;
     height:200px;
     border-radius: 100px;
-    margin-left: 25rem;
+    margin-left: 40%;
   }
 
   .main-center {
@@ -134,7 +135,6 @@
     color: black;
   }
   
-
 strong {
   margin-left: 2rem;
 }
@@ -142,3 +142,67 @@ strong {
 .fox-gif {
   margin-right: 7rem;
 }
+
+/* media queries for responsive design: */
+
+@media screen and (max-width: 770px) {
+  .student {
+    width:180px;
+    height:180px;
+    border-radius: 90px;
+    margin-left: 30%;
+  }
+  .button {
+    margin-left: 30%;
+  }
+  .computerone {
+    float:none;
+  }
+  .computertwo {
+    float:none;
+    margin-left: 6rem;
+  }
+  .design-div {
+    margin-right: 4rem;
+  }
+  .debbugging-div {
+    margin-right: 10rem;
+    width: 350px;
+    margin-left: 1rem;
+  }
+  .about-h3 {
+    margin-left: 6rem;
+  }
+  .fox-gif {
+    width:150px;
+    height: 300px;
+    margin-right: 6rem;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .student {
+    width:150px;
+    height:150px;
+    border-radius: 75px;
+    margin-left: 10%;
+  }
+  .button {
+    margin-left: 10%;
+  }
+  .fox-gif {
+    width:120px;
+    height: 250px;
+    margin-right: 3rem;
+  }
+  .computertwo, .computerone {
+    float:none;
+    margin-left: 1rem;
+  }
+  .debbugging-div {
+    width: 300px;
+    margin-right: 70px;
+    margin-left: 0.1rem;
+  }
+}
+

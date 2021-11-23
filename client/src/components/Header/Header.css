@@ -21,9 +21,7 @@ h2 {
     font-size:28px;
     font-weight: 50;
     margin-bottom:35px;
-    line-height: 200%;
     text-align:center;
-    height: 35px;
 }
 
 .right-cloud {
@@ -33,7 +31,48 @@ h2 {
 }
 
 .left-cloud {
-  left: 50px;
+  left: 5%;
   bottom: 100px;
   position: relative;
+}
+
+/* media queries for responsive design: */
+
+@media screen and (max-width: 770px) {
+  .right-cloud{
+    width: 100px;
+    height: 30px;
+    top: 12%;
+ }
+  .left-cloud {
+    width: 100px;
+    height: 30px;
+    bottom: 180px;
+    left: 2%;
+  }
+ h1 {
+   font-size: 25px;
+ }
+ .programmer-h2 {
+   font-size: 18px;
+   font-weight: 20;
+ }
+ header{
+   height: 200px;
+ }
+}
+
+@media screen and (max-width: 600px) {
+  .right-cloud{
+    width: 70px;
+    height: 20px;
+ }
+  .left-cloud {
+    width: 70px;
+    height: 20px;
+    bottom: 130px;
+  }
+  .programmer-h2 {
+    font-size: 14px;
+    }
 }

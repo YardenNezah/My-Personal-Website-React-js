@@ -35,3 +35,20 @@ nav ul {
   li a:hover {
     color: white;
   }
+
+  /* media queries for responsive design: */
+
+  @media screen and (max-width: 770px) {
+    li a {
+      font-size: 14px;
+    }
+  }
+
+  @media screen and (max-width: 550px) {
+    li a {
+      font-size: 12px;
+    }
+    .devclub {
+      font-size: 10px;
+    }
+  }

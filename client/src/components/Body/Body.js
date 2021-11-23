@@ -37,7 +37,7 @@ const Body = () => {
             </div>
             <img src="https://media0.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="200" height="150" alt="computer" className="computertwo"></img>
             <div className="debbugging-div">
-                <h3>About me</h3>
+                <h3 class="about-h3">About me</h3>
                 <div class="debug-content">
                     <p>
                         ⚡ Building engaging projects, fun challenges and personalized practice.</p>
